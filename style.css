@@ -7,9 +7,7 @@
 }
 
 body {
-    /* background-image: url("C:\Users\Raunak Dey\Downloads\ACC\Gallery\raunak_background.jpg") no-repeat center center/cover; */
-    /* background-image: url("C:\Users\Raunak Dey\Downloads\ACC\Gallery\raunak_background.jpg") no-repeat center center/cover; */
-    background-image: url("C:/Users/Raunak Dey/Downloads/ACC/Gallery/raunak_background.jpg");
+    background-image: url("Gallery/raunak_background.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
